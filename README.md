@@ -58,4 +58,4 @@ With a £25,000 retention budget targeting High Risk customers:
 ## Author
 Ramansh Bahutra
 - LinkedIn: https://www.linkedin.com/in/ramansh-bahutra-rb
-- GitHub: GitHub URL
+- GitHub: https://github.com/Ramansh2003/customer-churn-analysis.git
