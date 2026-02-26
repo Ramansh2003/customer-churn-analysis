@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Retention Strategy
+# Customer Churn Prediction & Retention Strategy 
 
 ## Project Overview
 Analysis of 7,032 telecom customers to predict churn risk and design a data-driven retention strategy using PostgreSQL and Excel.
